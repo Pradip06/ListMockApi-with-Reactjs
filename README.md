@@ -1,25 +1,5 @@
 
-# Folder Structure
-After creation, your project should look like this:
-
-
-    App.css
-    App.js
-    App.test.js
-    index.css
-    index.js
-    logo.svg
-    my-app
   README.md
-  node_modules
-  package.json
-  public
-    index.html
-    favicon.ico
-  src
-   service 
-   component
-   container
    
 
 # Getting Started with Create React App
