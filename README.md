@@ -1,3 +1,5 @@
+db/
+db.json - create data 
 List-app/
   README.md
   build
