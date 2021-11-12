@@ -1,0 +1,81 @@
+{
+  "register": [
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "abc@123",
+      "confirm_password": "abc@123"
+    }
+  ],
+  "login": [
+    {
+      "name": "abc",
+      "password": "abc@123"
+    }
+  ],
+  "list": [
+    {
+      "name": "Dominos",
+      "address": "gurgaon",
+      "rating": "4.5",
+      "email": "dominos@testy.com",
+      "id": 1
+    },
+    {
+      "name": "McDonal",
+      "address": "Delhi",
+      "rating": "4.3",
+      "email": "mcdonal@testy.com",
+      "id": 2
+    },
+    {
+      "name": "Chandan Halwai",
+      "address": "Vrindavan",
+      "rating": "3.4",
+      "email": "halwasi@chandan.com",
+      "id": 3
+    },
+    {
+      "name": "Bhati Foods",
+      "address": "Vrindavan",
+      "rating": "4.3",
+      "email": "Bharti@foods.com",
+      "id": 4
+    },
+    {
+      "name": "brijwashi",
+      "address": "vrindavan",
+      "rating": "4.4",
+      "email": "brijwashi@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "samrat resturent",
+      "address": "vrindavan",
+      "rating": "4.3",
+      "email": "samrat@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Brijdham",
+      "address": "vrindavan",
+      "rating": "4.2",
+      "email": "brijdham@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "vekunthdham",
+      "address": "vrindavan",
+      "rating": "3.2",
+      "email": "vekunth@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "sagar ratana",
+      "address": "vrindavan",
+      "rating": "3.4",
+      "email": "sagar@ratna.com",
+      "id": 9
+    }
+  ]
+}
