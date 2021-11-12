@@ -1,3 +1,6 @@
+
+
+
 # Folder Structure
 After creation, your project should look like this:
 
@@ -5,33 +8,17 @@ After creation, your project should look like this:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-my-app/
+my-app
   README.md
-  node_modules/
+  node_modules
   package.json
-  public/
+  public
     index.html
     favicon.ico
-  src/
-   /service 
-   /component
-   /container
+  src
+   service 
+   component
+   container
    
     App.css
     App.js
