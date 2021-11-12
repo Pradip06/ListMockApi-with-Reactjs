@@ -1,4 +1,29 @@
+#Folder Structure
 
+After creation, your project should look like this:
+
+```
+my-app/
+  README.md
+  node_modules/
+  package.json
+  public/
+    index.html
+    favicon.ico
+  src/
+   /service 
+   /component
+   /container
+   
+    App.css
+    App.js
+    App.test.js
+    index.css
+    index.js
+    logo.svg
+
+
+```
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
