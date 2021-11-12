@@ -1,3 +1,38 @@
+List-app/
+  README.md
+  build
+  node_modules/
+  package.json
+  public/
+    index.html
+    favicon.ico
+  src/
+      /component
+      AddNewList.tsx
+      Home.tsx
+      ListUpdate.tsx
+      NavBarMenu.tsx
+      Protected.tsx
+      Search.tsx
+      /Log In & Out
+      Login.tsx
+      Logout.tsx
+      Register.tsx
+      
+      
+   App.css  
+    App.js
+    App.test.js
+    index.css
+    index.js
+    logo.svg
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
