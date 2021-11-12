@@ -3,18 +3,21 @@
 After creation, your project should look like this:
 
 ```
-my-app/
+db/
+  db.json
+
+Lit-app/
   README.md
-  node_modules/
   package.json
+  package-lock.json
+  .gitignore
+  node_modules/
   public/
     index.html
     favicon.ico
   src/
-   /service 
    /component
-   /container
-   
+             /Log In & Out  
     App.css
     App.js
     App.test.js
